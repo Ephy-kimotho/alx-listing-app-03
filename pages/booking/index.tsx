@@ -1,5 +1,5 @@
-import BookingForm from "./BookingForm";
-import OrderSummary from "./OrderSummary";
+import BookingForm from "../../components/booking/BookingForm";
+import OrderSummary from "../../components/booking/OrderSummary";
 
 export default function BookingPage() {
   const bookingDetails = {
